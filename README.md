@@ -1,2 +1,1 @@
-# camerakit
- 
+# camera_kit_demo
